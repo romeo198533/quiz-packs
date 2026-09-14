@@ -1,48 +1,120 @@
 {
-  "version": 1,
+  "version": 4,
   "updated": "2026-09-14",
   "packs": [
     {
       "file": "wiki-strany-1.json",
       "category": "Вики: Страны и столицы",
-      "version": 1,
+      "version": 4,
       "count": 192
     },
     {
       "file": "wiki-valyuty-1.json",
       "category": "Вики: Страны и деньги",
-      "version": 1,
+      "version": 4,
       "count": 192
     },
     {
       "file": "wiki-materiki-1.json",
       "category": "Вики: Части света",
-      "version": 1,
+      "version": 4,
       "count": 200
     },
     {
       "file": "wiki-elementy-simvol-1.json",
       "category": "Вики: Химические знаки",
-      "version": 1,
+      "version": 4,
       "count": 118
     },
     {
       "file": "wiki-elementy-nomer-1.json",
       "category": "Вики: Химические номера",
-      "version": 1,
+      "version": 4,
       "count": 119
     },
     {
       "file": "wiki-kartiny-1.json",
       "category": "Вики: Картины",
-      "version": 1,
-      "count": 250
+      "version": 4,
+      "count": 600
     },
     {
       "file": "wiki-kino-1.json",
       "category": "Вики: Кино",
-      "version": 1,
-      "count": 250
+      "version": 4,
+      "count": 600
+    },
+    {
+      "file": "wiki-gory-1.json",
+      "category": "Вики: Горы",
+      "version": 4,
+      "count": 172
+    },
+    {
+      "file": "wiki-vulkany-1.json",
+      "category": "Вики: Вулканы",
+      "version": 4,
+      "count": 76
+    },
+    {
+      "file": "wiki-sputniki-1.json",
+      "category": "Вики: Спутники планет",
+      "version": 4,
+      "count": 168
+    },
+    {
+      "file": "wiki-yazyki-1.json",
+      "category": "Вики: Языки стран",
+      "version": 4,
+      "count": 123
+    },
+    {
+      "file": "wiki-stolicy-1.json",
+      "category": "Вики: Столицы",
+      "version": 4,
+      "count": 202
+    },
+    {
+      "file": "wiki-muzei-1.json",
+      "category": "Вики: Музеи",
+      "version": 4,
+      "count": 600
+    },
+    {
+      "file": "wiki-pisateli-1.json",
+      "category": "Вики: Писатели",
+      "version": 4,
+      "count": 600
+    },
+    {
+      "file": "wiki-reki-1.json",
+      "category": "Вики: Реки",
+      "version": 4,
+      "count": 600
+    },
+    {
+      "file": "wiki-ostrova-1.json",
+      "category": "Вики: Острова",
+      "version": 4,
+      "count": 442
+    },
+    {
+      "file": "wiki-ozyora-1.json",
+      "category": "Вики: Озёра",
+      "version": 4,
+      "count": 497
+    },
+    {
+      "file": "wiki-parki-1.json",
+      "category": "Вики: Национальные парки",
+      "version": 4,
+      "count": 600
+    },
+    {
+      "file": "wiki-pesni-1.json",
+      "category": "Вики: Песни",
+      "version": 4,
+      "count": 125
     }
   ]
 }
