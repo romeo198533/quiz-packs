@@ -1,9 +1,21 @@
 {
-  "version": 1,
+  "version": 3,
   "updated": "2026-09-14",
   "packs": [
     {"file": "obshee-1.json", "category": "Общая эрудиция", "version": 1, "count": 20},
     {"file": "massage-1.json", "category": "Массаж и анатомия", "version": 1, "count": 20},
-    {"file": "sport-1.json", "category": "Спорт и тренировки", "version": 1, "count": 20}
+    {"file": "massage-2.json", "category": "Массаж: приёмы и практика", "version": 1, "count": 20},
+    {"file": "massage-3.json", "category": "Массаж и анатомия", "version": 1, "count": 40},
+    {"file": "sport-1.json", "category": "Спорт и тренировки", "version": 1, "count": 20},
+    {"file": "istoriya-1.json", "category": "История России", "version": 1, "count": 20},
+    {"file": "geografiya-1.json", "category": "География", "version": 1, "count": 20},
+    {"file": "zhivotnye-1.json", "category": "Животные и природа", "version": 1, "count": 20},
+    {"file": "avto-moto-1.json", "category": "Авто и мото", "version": 1, "count": 20},
+    {"file": "psihologiya-1.json", "category": "Психология", "version": 1, "count": 20},
+    {"file": "drevnyaya-istoriya-1.json", "category": "Древняя история", "version": 1, "count": 20},
+    {"file": "ekonomika-1.json", "category": "Экономика", "version": 1, "count": 20},
+    {"file": "logika-1.json", "category": "Логика", "version": 1, "count": 20},
+    {"file": "pogovorki-1.json", "category": "Поговорки", "version": 1, "count": 20},
+    {"file": "pisateli-1.json", "category": "Писатели", "version": 1, "count": 20}
   ]
 }
