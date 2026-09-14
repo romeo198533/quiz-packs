@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "updated": "2026-09-14",
+  "packs": [
+    {
+      "file": "wiki-strany-1.json",
+      "category": "Вики: Страны и столицы",
+      "version": 1,
+      "count": 192
+    },
+    {
+      "file": "wiki-valyuty-1.json",
+      "category": "Вики: Страны и деньги",
+      "version": 1,
+      "count": 192
+    },
+    {
+      "file": "wiki-materiki-1.json",
+      "category": "Вики: Части света",
+      "version": 1,
+      "count": 200
+    },
+    {
+      "file": "wiki-elementy-simvol-1.json",
+      "category": "Вики: Химические знаки",
+      "version": 1,
+      "count": 118
+    },
+    {
+      "file": "wiki-elementy-nomer-1.json",
+      "category": "Вики: Химические номера",
+      "version": 1,
+      "count": 119
+    },
+    {
+      "file": "wiki-kartiny-1.json",
+      "category": "Вики: Картины",
+      "version": 1,
+      "count": 250
+    },
+    {
+      "file": "wiki-kino-1.json",
+      "category": "Вики: Кино",
+      "version": 1,
+      "count": 250
+    }
+  ]
+}
