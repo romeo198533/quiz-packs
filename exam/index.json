@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "updated": "2026-09-15",
   "packs": [
     {
@@ -77,89 +77,89 @@
     {
       "file": "massazh-1.json",
       "category": "Приёмы и техника",
-      "section": "Массаж",
+      "section": "Общий курс",
       "part": "Общий курс",
-      "version": 1,
+      "version": 2,
       "count": 60
     },
     {
       "file": "massazh-2-eremushkin.json",
       "category": "Приёмы и частные методики",
-      "section": "Массаж",
+      "section": "По Еремушкину",
       "part": "По Еремушкину",
-      "version": 1,
+      "version": 2,
       "count": 61
     },
     {
       "file": "massazh-3-dunaev.json",
       "category": "Приёмы и частные методики",
-      "section": "Массаж",
+      "section": "По Дунаеву",
       "part": "По Дунаеву",
-      "version": 1,
+      "version": 2,
       "count": 60
     },
     {
       "file": "massazh-4-vasichkin.json",
       "category": "Приёмы и частные методики",
-      "section": "Массаж",
+      "section": "По Васичкину",
       "part": "По Васичкину",
-      "version": 1,
+      "version": 2,
       "count": 60
     },
     {
       "file": "massazh-5-vasichkin.json",
       "category": "Приёмы и частные методики",
-      "section": "Массаж",
+      "section": "По Васичкину",
       "part": "По Васичкину",
-      "version": 1,
+      "version": 2,
       "count": 62
     },
     {
       "file": "massazh-6-vasichkin.json",
       "category": "Приёмы и частные методики",
-      "section": "Массаж",
+      "section": "По Васичкину",
       "part": "По Васичкину",
-      "version": 1,
+      "version": 2,
       "count": 67
     },
     {
       "file": "massazh-7-vasichkin.json",
       "category": "Приёмы и частные методики",
-      "section": "Массаж",
+      "section": "По Васичкину",
       "part": "По Васичкину",
-      "version": 1,
+      "version": 2,
       "count": 61
     },
     {
       "file": "massazh-8-vasichkin.json",
       "category": "Приёмы и частные методики",
-      "section": "Массаж",
+      "section": "По Васичкину",
       "part": "По Васичкину",
-      "version": 1,
+      "version": 2,
       "count": 58
     },
     {
       "file": "massazh-9-vasichkin.json",
       "category": "Приёмы и частные методики",
-      "section": "Массаж",
+      "section": "По Васичкину",
       "part": "По Васичкину",
-      "version": 1,
+      "version": 2,
       "count": 111
     },
     {
       "file": "massazh-10-vasichkin.json",
       "category": "Приёмы и частные методики",
-      "section": "Массаж",
+      "section": "По Васичкину",
       "part": "По Васичкину",
-      "version": 1,
+      "version": 2,
       "count": 138
     },
     {
       "file": "massazh-11-vasichkin.json",
       "category": "Приёмы и частные методики",
-      "section": "Массаж",
+      "section": "По Васичкину",
       "part": "По Васичкину",
-      "version": 1,
+      "version": 2,
       "count": 204
     }
   ]
