@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updated": "2026-09-15",
   "packs": [
     {
@@ -97,6 +97,30 @@
       "part": "По Дунаеву",
       "version": 1,
       "count": 60
+    },
+    {
+      "file": "massazh-4-vasichkin.json",
+      "category": "Приёмы и частные методики",
+      "section": "Массаж",
+      "part": "По Васичкину",
+      "version": 1,
+      "count": 60
+    },
+    {
+      "file": "massazh-5-vasichkin.json",
+      "category": "Приёмы и частные методики",
+      "section": "Массаж",
+      "part": "По Васичкину",
+      "version": 1,
+      "count": 62
+    },
+    {
+      "file": "massazh-6-vasichkin.json",
+      "category": "Приёмы и частные методики",
+      "section": "Массаж",
+      "part": "По Васичкину",
+      "version": 1,
+      "count": 67
     }
   ]
 }
