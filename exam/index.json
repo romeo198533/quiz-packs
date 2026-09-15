@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updated": "2026-09-15",
   "packs": [
     {
@@ -121,6 +121,22 @@
       "part": "По Васичкину",
       "version": 1,
       "count": 67
+    },
+    {
+      "file": "massazh-7-vasichkin.json",
+      "category": "Приёмы и частные методики",
+      "section": "Массаж",
+      "part": "По Васичкину",
+      "version": 1,
+      "count": 61
+    },
+    {
+      "file": "massazh-8-vasichkin.json",
+      "category": "Приёмы и частные методики",
+      "section": "Массаж",
+      "part": "По Васичкину",
+      "version": 1,
+      "count": 58
     }
   ]
 }
