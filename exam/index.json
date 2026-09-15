@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "updated": "2026-09-15",
+  "packs": [
+    {
+      "file": "anatomiya-1.json",
+      "category": "Кости и суставы",
+      "section": "Анатомия",
+      "part": "Кости и суставы",
+      "version": 1,
+      "count": 60
+    },
+    {
+      "file": "anatomiya-2.json",
+      "category": "Мышцы",
+      "section": "Анатомия",
+      "part": "Мышцы",
+      "version": 1,
+      "count": 60
+    },
+    {
+      "file": "anatomiya-3-krov.json",
+      "category": "Кровеносная система",
+      "section": "Анатомия",
+      "part": "Кровеносная система",
+      "version": 1,
+      "count": 45
+    },
+    {
+      "file": "anatomiya-4-dyh.json",
+      "category": "Дыхательная система",
+      "section": "Анатомия",
+      "part": "Дыхательная система",
+      "version": 1,
+      "count": 45
+    },
+    {
+      "file": "anatomiya-5-pishch.json",
+      "category": "Пищеварительная система",
+      "section": "Анатомия",
+      "part": "Пищеварительная система",
+      "version": 1,
+      "count": 45
+    },
+    {
+      "file": "anatomiya-6-nerv.json",
+      "category": "Нервная система",
+      "section": "Анатомия",
+      "part": "Нервная система",
+      "version": 1,
+      "count": 45
+    },
+    {
+      "file": "anatomiya-7-vydel.json",
+      "category": "Мочевыделительная система",
+      "section": "Анатомия",
+      "part": "Мочевыделительная система",
+      "version": 1,
+      "count": 40
+    },
+    {
+      "file": "anatomiya-8-obmen.json",
+      "category": "Обмен веществ и железы",
+      "section": "Анатомия",
+      "part": "Обмен веществ и железы",
+      "version": 1,
+      "count": 40
+    },
+    {
+      "file": "anatomiya-9-koja.json",
+      "category": "Кожа и органы чувств",
+      "section": "Анатомия",
+      "part": "Кожа и органы чувств",
+      "version": 1,
+      "count": 45
+    },
+    {
+      "file": "massazh-1.json",
+      "category": "Приёмы и техника",
+      "section": "Массаж",
+      "part": "Общий курс",
+      "version": 1,
+      "count": 60
+    },
+    {
+      "file": "massazh-2-eremushkin.json",
+      "category": "Приёмы и частные методики",
+      "section": "Массаж",
+      "part": "По Еремушкину",
+      "version": 1,
+      "count": 61
+    },
+    {
+      "file": "massazh-3-dunaev.json",
+      "category": "Приёмы и частные методики",
+      "section": "Массаж",
+      "part": "По Дунаеву",
+      "version": 1,
+      "count": 60
+    }
+  ]
+}
